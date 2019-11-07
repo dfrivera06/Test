@@ -1,3 +1,5 @@
+//test comment
+
 package com.example.tests.poms;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
